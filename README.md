@@ -30,9 +30,7 @@
 pip install diffusers transformers gradio</code></pre>
     
   <h3>Running the Application</h3>
-    <p>Run the application with:</p>
-    <pre><code>python app.py</code></pre>
-    <p>The web interface will launch and be accessible at <code>http://localhost:7860</code></p>
+    <p> Please copy the above code in a google colab notebook to run </p>
     
   <h2>⚙️ Configuration</h2>
     <p>The application uses the following default settings:</p>
@@ -77,4 +75,4 @@ pip install diffusers transformers gradio</code></pre>
         <li>NSFW filter is disabled by default in this implementation</li>
     </ul>
 
-  <p> Please copy the above code in a google colab notebook to run </p>
+ 
