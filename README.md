@@ -1,5 +1,5 @@
 # PRODIGY_GA_02
-#🎨Stable Diffusion Image Generator
+# Stable Diffusion Image Generator
     
   <p>A Gradio web interface for generating images using Stable Diffusion v1.5 model from Hugging Face.</p>
     
